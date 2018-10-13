@@ -151,3 +151,14 @@ IP.addConstraint(
     }
   }
 );
+
+/*
+FileName.addConstraint(
+    it => {
+        if (!/^[a-zA-Z_0-9\-]+$/.test(it)) {
+            return "must be valid file name of /^[a-zA-Z_0-9\-]+$/";
+        }
+    }
+);
+*/
+
