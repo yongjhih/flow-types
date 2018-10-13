@@ -1,0 +1,16 @@
+*.lock
+*-lock.json
+node_modules/
+.*.sw[p-z]
+.bin/
+flow-typed/npm/
+flow-coverage/
+jsdoc2flow/
+docs/
+coverage/
+.idea/
+package-lock.json
+yarn-error.log
+.scannerwork/
+.a.json
+*.orig
